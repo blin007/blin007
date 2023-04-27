@@ -2,8 +2,6 @@
 - Check out my latest project: https://community-sleep-project.vercel.app/
 - Or some of my gameboy css art: https://blin007.github.io/Gameboys-css/
 
-<br>
-
 ## NYU Projects
 ### NYU: Software Engineering ⚙️
 - [Containerized Machine Learning Rock Paper Scissors](https://github.com/blin007/Containerized-Rock-Paper-Scissors-App)
@@ -12,8 +10,6 @@
 - [Sleep Hygiene Guide](https://community-sleep-project.vercel.app/)
 ### NYU: Drawing On the Web 🖍️
 - [Gameboy CSS](https://blin007.github.io/Gameboys-css/)
-
-<br>
 
 ## Independent Projects
 ### Sorting Algorithm Visualizer ✅
