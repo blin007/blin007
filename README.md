@@ -1,6 +1,6 @@
 ## Hi there 👋
-- Check out my latest project: https://community-sleep-project.vercel.app/
-- Or some of my gameboy css art: https://blin007.github.io/Gameboys-css/
+- Check out my latest project that uses ThreeJS and GSAP: https://community-sleep-project.vercel.app/
+- Or some of my Gameboy CSS art: https://blin007.github.io/Gameboys-css/
 
 ## NYU Projects
 ### NYU: Software Engineering ⚙️
